@@ -138,11 +138,6 @@ background-image: radial-gradient(red,black);
     color: red;
     
   }
-
-  .page-title.hover{
- 
-    
-  }
   
   /* style of devices of screen size less than 768px */
   @media only screen and (min-width: 600px) {
